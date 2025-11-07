@@ -1,5 +1,5 @@
 # ruff: noqa: F401
-# Exports features of the ORM to developers.
+# Exports features of the ORM to developers. //
 # This is a `__init__.py` file to avoid merge conflicts on `odoo/api.py`.
 from odoo.orm.identifiers import NewId
 from odoo.orm.decorators import (
